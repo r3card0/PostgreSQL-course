@@ -9,8 +9,8 @@ This project is an database architecture for a train station. It is an excercise
 - Configuration Files
 - Useful commands on Terminal
 - Data types
-- Database Desing
-- Database Jerarqu
+- Database Design
+- Database Hierarchy
 
 ## Data Management
 - Create Tables
